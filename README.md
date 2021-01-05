@@ -15,7 +15,7 @@ https://console.cloud.google.com/compute/instances
 - Remember to check the Firewall check-boxes: "Allow HTTP traffic" and "Allow HTTPS traffic"
 - Click on "Create" and wait while your instance starts up
 
-** Now we will install NiFi in our created instance **
+**Now we will install NiFi in our created instance**
 - Click the SSH button to connect to the machine
 - Clone your repository using the ```git``` command  
 ```git clone https://github.com/tatianamara/nifi-configuration-docker.git```  
