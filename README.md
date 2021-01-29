@@ -1,6 +1,6 @@
 # This repository contains the files needed to set up a secure NiFi via docker at GCP and how to connect with Registry and Github
 
-!dataStructure(https://github.com/tatianamara/nifi-configuration-docker/blob/main/dataStructure.PNG?raw=true)
+![dataStructure](https://github.com/tatianamara/nifi-configuration-docker/blob/main/dataStructure.PNG)
 
 ## Follow the steps below to make the necessary settings
 
